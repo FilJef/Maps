@@ -1,0 +1,6 @@
+Aberystwyth:TOWN:20000
+Bow Street:VILLAGE:2000
+Llanbadarn:VILLAGE:3000
+Tal-y-bont:VILLAGE:1000
+Rhydypennau:HAMLET:100
+Borth:VILLAGE:300

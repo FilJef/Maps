@@ -1,0 +1,4 @@
+A487:A:3.4:Aberystwyth:Bow Street
+A44:A:1.2:Aberystwyth:Llanbadarn
+A487:A:0.9:Bow Street:Rhydypennau
+A487:A:2.7:Rhydypennau:Tal-y-bont
